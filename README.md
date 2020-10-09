@@ -23,4 +23,5 @@ In essa è possibile leggere:
 <ul type="cyrcle">
   <li>Implementazione dei vincoli, dei Trigger (in PLSQL) e delle Sequence utilizzate dal database</li>
   <li>Manuale d'uso dell'applicativo</li>
+  <li>Scelte progettuali</li>
 </ul>
