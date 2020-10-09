@@ -1,7 +1,7 @@
 # BD_project
 Progettazione e implementazione di una base di dati per la memorizzazione e gestione di metadati per database relazionali, correlata di un applicativo di interfacciamento in Java.
 
-<H1> Specifiche :</H1>
+<H1> Specifiche</H1>
 Si sviluppi una base di dati per la gestione di metadati relativi a schemi di DB relazionali basati su SQL.<br>
 In particolare, il DB da progettare e implementare dovrà permettere la memorizzazione di nomi di tabelle e colonne (default e tipo di dato), vincoli (chiavi primarie ed esterne, check), domini, sequenze, trigger, viste, asserzioni, stored procedure (con intestazione), utenti e relativi permessi.
 
