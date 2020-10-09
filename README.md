@@ -3,7 +3,7 @@ Progettazione e implementazione di una base di dati per la memorizzazione e gest
 
 <H1> Specifiche :</H1>
 Si sviluppi una base di dati per la gestione di metadati relativi a schemi di DB relazionali basati su SQL.<br>
-In particolare, il DB da progettare e implementare dovrˆ permettere la memorizzazione di nomi di tabelle e colonne (default e tipo di dato), vincoli (chiavi primarie ed esterne, check), domini, sequenze, trigger, viste, asserzioni, stored procedure (con intestazione), utenti e relativi permessi.
+In particolare, il DB da progettare e implementare dovrà permettere la memorizzazione di nomi di tabelle e colonne (default e tipo di dato), vincoli (chiavi primarie ed esterne, check), domini, sequenze, trigger, viste, asserzioni, stored procedure (con intestazione), utenti e relativi permessi.
 
 <H1> Documento di progettazione database </H1>
 Al seguente <a href = "https://drive.google.com/file/d/1_CxlJHK9poLS0qKWQAKSG9uQGJUqpLkt/view?usp=sharing">link</a> è possibile visualizzare la documentazione relativa alla progettazione e all'implementazione del database.<br>
