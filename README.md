@@ -9,11 +9,11 @@ In particolare, il DB da progettare e implementare dovrˆ permettere la memorizz
 Al seguente <a href = "https://drive.google.com/file/d/1_CxlJHK9poLS0qKWQAKSG9uQGJUqpLkt/view?usp=sharing">link</a> è possibile visualizzare la documentazione relativa alla progettazione e all'implementazione del database.<br>
 In essa è possibile leggere:
 <ul type="cyrcle">
-  <il>Analisi dettagliata delle specifiche</il>
-  <il>Class Diagram di progettazione e relativa ristrutturazione</il>
-  <il>Dizionario delle classi, delle associazioni e dei vincoli</il>
-  <il>Schema relazionale</il>
-  <il>Definizione delle tabelle</il>
+  <li>Analisi dettagliata delle specifiche</li>
+  <li>Class Diagram di progettazione e relativa ristrutturazione</li>
+  <li>Dizionario delle classi, delle associazioni e dei vincoli</li>
+  <li>Schema relazionale</li>
+  <li>Definizione delle tabelle</li>
 </ul>
 <br>
 
@@ -21,6 +21,6 @@ In essa è possibile leggere:
 Al seguente <a href = "https://drive.google.com/file/d/1pfvKEFAj6eH5hEVCRHKsz47X9zIjUArv/view?usp=sharing">link</a> è possibile visualizzare la documentazione relativa all'applicativo Java di gestione del database.<br>
 In essa è possibile leggere:
 <ul type="cyrcle">
-  <il>Implementazione dei vincoli, dei Trigger (in PLSQL) e delle Sequence utilizzate dal database</il>
-  <il>Manuale d'uso dell'applicativo</il>
+  <li>Implementazione dei vincoli, dei Trigger (in PLSQL) e delle Sequence utilizzate dal database</li>
+  <li>Manuale d'uso dell'applicativo</li>
 </ul>
