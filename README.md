@@ -25,3 +25,5 @@ In essa è possibile leggere:
   <li>Manuale d'uso dell'applicativo</li>
   <li>Scelte progettuali</li>
 </ul>
+<br>
+Per la realizzazione dell'applicativo è stato utilizzato l'IDE NetBeans versione 11.1
